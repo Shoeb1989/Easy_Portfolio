@@ -2,3 +2,26 @@ nav {
 
     display: flex;
 }
+
+.nav-title{
+
+    color: var(--Dark-01, #181818);
+
+    font-size: 45px;
+    font-weight: 800;
+    line-height: normal;
+
+}
+nav > ul{
+
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin: 50px;
+}
+
+nav a{
+    text-decoration: none;
+}
