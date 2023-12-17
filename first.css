@@ -93,3 +93,9 @@ margin-top: 5px;
 .banner-content{
     max-width: 500px;
 }
+
+.section{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #FFF8f3;
+}
