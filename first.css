@@ -163,7 +163,33 @@ main section{
 
 .resume-column{
     color: var(--Dark-02, #474747);
-font-size: 30px;
-font-weight: 700;
+
+
 line-height: normal;
+}
+
+.resume-container{
+   
+}
+.Summary{
+    text-align: center;
+}
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+
+.resume-des, .resume-ins{
+    color: #757575;
+}
+.resume-container hr{
+    margin: 25px;
+}
+.resume-ins{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
