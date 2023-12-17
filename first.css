@@ -228,3 +228,13 @@ input{
 .social-link{
     margin-right: 25px;
 }
+
+.first-btn1{
+    border-radius: 5px;
+    background: #FD6E0A;
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    color: #181818;
+
+}
